@@ -4,6 +4,7 @@ import sys
 import requests
 import traceback
 import time
+import json
 from lxml import etree
 
 api = "http://www.gyruibo2.cn/WxSearch/GetRoomInfo"
@@ -68,4 +69,4 @@ def GetRoomInfo(Roomname):
 
 if __name__ == '__main__':
 	for i in range(len(sys.argv)-1):
-		print (GetRoomInfo(sys.argv[i+1]))
+		print (json.dumps(GetRoomInfo(sys.argv[i+1])))

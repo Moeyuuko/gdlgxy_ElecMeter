@@ -15,7 +15,7 @@
 	python3 power_get.py 16621 16612 17101
 	```
 	```json
-	{'state': 'ok', 'name': '16621', 'Used': '8169.97', 'Remaining': '19.06', 'RecordTime': '2021/6/30 12:07:16', 'TimeStamp': '1625026036'}
-	{'state': 'ok', 'name': '16612', 'Used': '8680.66', 'Remaining': '44.87', 'RecordTime': '2021/6/30 12:34:42', 'TimeStamp': '1625027682'}
-	{'state': 'ok', 'name': '17101', 'Used': '5209.58', 'Remaining': '21.78', 'RecordTime': '2021/6/30 11:55:26', 'TimeStamp': '1625025326'}
+	{"state": "ok", "name": "16621", "Used": "8172.41", "Remaining": "16.62", "RecordTime": "2021/6/30 14:02:56", "TimeStamp": "1625032976"}
+	{"state": "ok", "name": "16612", "Used": "8683.05", "Remaining": "42.48", "RecordTime": "2021/6/30 14:30:21", "TimeStamp": "1625034621"}
+	{"state": "ok", "name": "17101", "Used": "5210.76", "Remaining": "20.60", "RecordTime": "2021/6/30 13:51:28", "TimeStamp": "1625032288"}
 	```
