@@ -19,3 +19,6 @@
 	{"state": "ok", "name": "16612", "Used": "8683.05", "Remaining": "42.48", "RecordTime": "2021/6/30 14:30:21", "TimeStamp": "1625034621"}
 	{"state": "ok", "name": "17101", "Used": "5210.76", "Remaining": "20.60", "RecordTime": "2021/6/30 13:51:28", "TimeStamp": "1625032288"}
 	```
+## 贡献
+学校有新建宿舍楼, 如不支持你所在的宿舍楼. 可以 [提交 issue](https://github.com/Moeyuuko/gdlgxy-ElecMeter/issues/new) 或自行 fork 修改后提交 pull request。
+如果你要提交 pull request，请确保你的代码风格和项目已有的代码保持一致, 谢谢!
